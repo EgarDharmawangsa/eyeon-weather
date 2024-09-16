@@ -1,0 +1,54 @@
+body {
+    background-color: #414548;
+    color: white;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+}
+
+#city {
+    margin: 60px 0px 0px;
+}
+
+#city, #temperature, #description, .title {
+    text-align: center;
+}
+
+.title {
+    margin-bottom: 30px;
+}
+
+#description {
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+#icon {
+    display: block;
+    margin: 0px auto 0px auto;
+    width: 40%;
+}
+
+.main-info {
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: #2c3034;
+    margin-bottom: 30px;
+}
+
+.search {
+    margin-bottom: 30px;
+}
+
+.list-weather {
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    padding: 30px;
+}
+
+
+
+
